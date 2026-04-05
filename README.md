@@ -1,8 +1,3 @@
-# Movie recommendation system 
---Deployed on render 
---Link 🔗  <a "https://movie-recommendation-system-nhs6.onrender.com" > Click here</a>
-
-
 # 🚀 Movie Recommendation API (Flask)
 
 A machine learning-powered web application that recommends movies based on similarity. Built using Flask and deployed for real-time access.
